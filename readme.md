@@ -24,4 +24,4 @@ Dự án này được xây dựng sử dụng các công nghệ sau:
 - **Bootstrap**: Một framework giúp chúng tôi nhanh chóng và hiệu quả xây dựng thiết kế đáp ứng.
 - **Thư Viện Bổ Sung**: Chúng tôi sử dụng nhiều thư viện khác để nâng cao trải nghiệm người dùng, sẽ được tài liệu hóa trong wiki dự án.
 
-Link Website Vercel: capstone-five-sigma.vercel.app
+Link Website Vercel: https://capstone-five-sigma.vercel.app/
