@@ -25,3 +25,5 @@ Dự án này được xây dựng sử dụng các công nghệ sau:
 - **Thư Viện Bổ Sung**: Chúng tôi sử dụng nhiều thư viện khác để nâng cao trải nghiệm người dùng, sẽ được tài liệu hóa trong wiki dự án.
 
 Link Website Vercel: https://capstone-five-sigma.vercel.app/
+Link Github: https://github.com/huudat1610/capstone.git
+Link Youtube:
